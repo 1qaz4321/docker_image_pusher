@@ -1,3 +1,4 @@
 mysql:5.7
 registry.aliyuncs.com/google_containers/kube-apiserver:v1.28.11
 flannel/flannel:v0.22.0
+registry.k8s.io/pause:3.6
