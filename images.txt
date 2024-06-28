@@ -6,3 +6,4 @@ docker.io/flannel/flannel-cni-plugin:v1.1.2
 registry.aliyuncs.com/google_containers/kube-proxy:v1.28.7
 eclipse-temurin:8-jre-alpine
 eclipse-temurin:8-jdk
+bitnami/zookeeper:3.8.1
