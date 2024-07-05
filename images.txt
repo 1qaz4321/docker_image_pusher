@@ -1,3 +1,1 @@
-wurstmeister/kafka
-mysql
-kafka
+kafka:3.1.0
