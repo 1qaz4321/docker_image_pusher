@@ -1,1 +1,2 @@
 wurstmeister/kafka
+eclipse-temurin:21-jre
