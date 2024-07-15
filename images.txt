@@ -4,3 +4,4 @@ nginx
 gitlab/gitlab-ce:14.10.2-ce.0
 amir20/dozzle
 mysql:8.0.25
+mysql:8.4.0
