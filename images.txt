@@ -7,4 +7,4 @@ mysql:8.0.25
 mysql:8.4.0
 nacos/nacos-server 
 redis:7.0.12
-openjdk:11
+openjdk:21
