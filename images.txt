@@ -12,3 +12,4 @@ centos:7
 eclipse-temurin:8-jdk
 jenkins/jenkins:lts-jdk11
 jenkins/jenkins:2.344
+jenkins/jenkins
