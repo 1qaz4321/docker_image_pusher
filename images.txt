@@ -14,3 +14,4 @@ jenkins/jenkins:lts-jdk11
 jenkins/jenkins:2.344
 jenkins/jenkins
 redis:6.0.20
+redis:5.0
