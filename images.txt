@@ -1,3 +1,4 @@
 python:3.12
 nginx:1.13.7-alpine
 sonarqube:community
+postgres:13
