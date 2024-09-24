@@ -1,1 +1,1 @@
-centos:7
+arm64v8/eclipse-temurin:21-jre
