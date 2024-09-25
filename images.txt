@@ -1,1 +1,1 @@
-eclipse-temurin:21-jre-linuxarm64
+--platform linux/arm64 eclipse-temurin:21-jre
