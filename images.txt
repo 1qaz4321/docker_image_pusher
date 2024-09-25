@@ -1,1 +1,1 @@
---platform linux/arm64 eclipse-temurin:21-jre
+--platform linux/arm64 nginx
