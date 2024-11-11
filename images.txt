@@ -2,3 +2,4 @@
 eclipse-temurin:21-jre
 nginx
 python:3.9
+rabbitmq:3.13.7-management
