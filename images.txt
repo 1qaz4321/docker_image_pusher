@@ -1,6 +1,3 @@
 --platform linux/arm64 nginx
-eclipse-temurin:21-jre
-nginx
-python:3.9
-rabbitmq:3.13.7-management
---platform linux/arm64 python:3.9
+--platform linux/arm64 grafana
+--platform linux/arm64 prometheus
