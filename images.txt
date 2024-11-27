@@ -1,3 +1,2 @@
 --platform linux/arm64 nginx
---platform linux/arm64 grafana
 --platform linux/arm64 prometheus
