@@ -1,2 +1,2 @@
 --platform linux/arm64 nginx
---platform linux/arm64 openvas
+mikesplain/openvas
