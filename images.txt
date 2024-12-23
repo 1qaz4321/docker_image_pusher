@@ -1,1 +1,1 @@
-minio/minio
+docker.io/library/debian:bookworm
