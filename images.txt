@@ -1,1 +1,1 @@
-docker.io/library/debian:bookworm
+eipwork/kuboard:v3
