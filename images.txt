@@ -1,1 +1,1 @@
-mysql:8.0.25
+postgres:14.5
