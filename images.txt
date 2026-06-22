@@ -1,3 +1,1 @@
-docker.io/calico/apiserver:v3.26.3
-vllm/vllm-openai:v0.18.1
-XiaomiMiMo/MiMo-V2.5-Pro
+lmsysorg/sglang:dev-cu13-mimo-v2.5-pro
