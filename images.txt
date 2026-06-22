@@ -1,1 +1,1 @@
-lmsysorg/sglang:dev-cu13-mimo-v2.5-pro
+pytorch/pytorch:2.1.0-cuda12.1-cudnn8-runtime
