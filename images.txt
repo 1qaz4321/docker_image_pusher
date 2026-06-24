@@ -1,1 +1,1 @@
-vllm/vllm-openai
+iregistry.baidu-int.com/hac_test/aiak-inference-llm:vLLM-Kunlun-Base
