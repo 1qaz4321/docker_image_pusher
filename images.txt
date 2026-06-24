@@ -1,1 +1,1 @@
-wjie520/vllm_kunlun:uv_base
+vllm/vllm-openai
