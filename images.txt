@@ -1,1 +1,1 @@
-loongforge/loongforge_kunlun:py310_torch25
+registry.baidubce.com/paddlepaddle/fastdeploy-xpu:latest
