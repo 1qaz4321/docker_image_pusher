@@ -1,1 +1,1 @@
-iregistry.baidu-int.com/hac_test/aiak-inference-llm:vLLM-Kunlun-Base
+loongforge/loongforge_kunlun:py310_torch25
