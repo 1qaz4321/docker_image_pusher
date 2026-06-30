@@ -1,1 +1,1 @@
-ccr-2vdh3abv-pub.cnc.bj.baidubce.com/device/paddle-xpu:ubuntu20-x86_64-gcc84-py310
+iregistry.baidu-int.com/hac_test/aiak-inference-llm:ubuntu22.04-xpurt10.2-torch2.5.1-py3.10_vLLM_Kunlun_0.11.0_260114_glm47
