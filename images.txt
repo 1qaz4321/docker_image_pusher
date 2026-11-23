@@ -1,2 +1,2 @@
-bitnamilegacy/mongodb:8.0.28
+mongo:8.0.37
 mysql:8.4.13
